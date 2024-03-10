@@ -1,4 +1,4 @@
-# time-calculator
+# Time Calculator
 
 This is one of the required projects to earn my Scientific Computing with Python certification by freeCodeCamp.
 For this project, I wrote a function named add_time that takes in two required parameters and one optional parameter:
